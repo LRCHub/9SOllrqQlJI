@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Best Moments of...",
+  "base_artist": "塞壬唱片-MSR、Obadiah Brown-Beach、David Lin和Sophie Gold",
+  "createdAt": "2026-03-23T17:45:16.104358Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Best Moments of...",
+      "artist": "塞壬唱片-MSR, Obadiah Brown-Beach, David Lin, & Sophie Gold",
+      "has_synced": false,
+      "path": "select/01_Best_Moments_of..._塞壬唱片-MSR,_Obadiah_Brown-Beach,_David_Lin,_&_Sophie_Gold.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Best Moments of 2025 Song",
+      "artist": "The Lyrical Lanterns",
+      "has_synced": true,
+      "path": "select/02_Best_Moments_of_2025_Song_The_Lyrical_Lanterns.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Best Moments of 2025 Song",
+      "artist": "The Lyrical Lanterns",
+      "has_synced": true,
+      "path": "select/03_Best_Moments_of_2025_Song_The_Lyrical_Lanterns.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Best Moments Of...",
+      "artist": "塞壬唱片-MSR, Obadiah Brown-Beach, David Lin & Sophie Gold",
+      "has_synced": false,
+      "path": "select/04_Best_Moments_Of..._塞壬唱片-MSR,_Obadiah_Brown-Beach,_David_Lin_&_Sophie_Gold.txt"
+    }
+  ]
+}
